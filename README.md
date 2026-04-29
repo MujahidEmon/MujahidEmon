@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co.com/Psq86v3R/White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner-1.png" alt="banner" width="100%" />
 # 👋 Hi, I'm Mujahid Emon
 
 🚀 Frontend Developer | React | Next.js  
@@ -63,11 +64,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn]
-- 📧 Email: [Add your email]
+- 💼 LinkedIn:(https://www.linkedin.com/in/mujahiddev/)
+- 📧 Email: mujahidemon.dev@gamil.com
 
 ---
 
-## ⚡ Fun Fact
-
-💡 I turn coffee into code ☕➡️💻
