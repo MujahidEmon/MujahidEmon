@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/Psq86v3R/White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner-1.png" alt="banner" width="100%" />
+<img src="https://i.ibb.co.com/vCcTp0mN/Black-and-Gold-Minimalist-Corporate-Business-Linked-In-Banner-1.png" alt="banner" width="100%" />
 # 👋 Hi, I'm Mujahid Emon
 
 🚀 Frontend Developer | React | Next.js  
@@ -30,21 +30,21 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Book Review App
-- 📚 Users can review and rate books  
-- ⚡ Built with React + MongoDB  
-- 🔗 Live: [Add your link]  
-- 💻 Code: [Add repo link]
-
----
-
 ### 🔹 QR Based Coffee Shop Order Management
 - 📚 Customer can order coffee easily 
 - ⚡ Easy to manage orders for shop owner 
 - 🔗 Live: [(https://slash-coffee-emporium.web.app/)]  
 - 💻 Code: (https://github.com/MujahidEmon/slash-coffee-client)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Modern Ecommerece App
+- 📚 Modern ecommerence app with responsive UI 
+- ⚡ Advance admin panel   
+- 🔗 Live: [(https://elara-international.web.app/)]  
+- 💻 Code: [(https://github.com/MujahidEmon/elara-international-client)]
 
 ---
 
