@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co.com/zWVgJTBg/Linkedinb.png" alt="banner" width="100%" />
-# 👋 Hi, I'm Mujahid Emon
+👋 Hi, I'm Mujahid Emon
 
 🚀 Frontend Developer | React | Next.js  
 💻 Passionate about building modern, scalable web applications  
