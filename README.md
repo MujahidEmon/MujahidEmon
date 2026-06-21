@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/vCcTp0mN/Black-and-Gold-Minimalist-Corporate-Business-Linked-In-Banner-1.png" alt="banner" width="100%" />
+<img src="https://i.ibb.co.com/zWVgJTBg/Linkedinb.png" alt="banner" width="100%" />
 # 👋 Hi, I'm Mujahid Emon
 
 🚀 Frontend Developer | React | Next.js  
